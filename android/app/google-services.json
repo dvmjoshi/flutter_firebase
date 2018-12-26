@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "842761852361",
+    "firebase_url": "https://flutterfirebaseauth-78ade.firebaseio.com",
+    "project_id": "flutterfirebaseauth-78ade",
+    "storage_bucket": "flutterfirebaseauth-78ade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842761852361:android:85987042301b412a",
+        "android_client_info": {
+          "package_name": "com.divyamjoshiflutter.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842761852361-fuhlij3atej90ar34logd0dgheoas661.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRcvqCoPrMi37iG7XjWW_xV7XJV4FCFmI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842761852361:android:fa16cb1add9f08da",
+        "android_client_info": {
+          "package_name": "com.divyamjoshiflutter.flutterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842761852361-4dncc96uuah739vs5hlnintvecqjmaob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divyamjoshiflutter.flutterfirebase",
+            "certificate_hash": "508125a1a4d921196a9547f9084105dba5f67cb6"
+          }
+        },
+        {
+          "client_id": "842761852361-fuhlij3atej90ar34logd0dgheoas661.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRcvqCoPrMi37iG7XjWW_xV7XJV4FCFmI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842761852361-fuhlij3atej90ar34logd0dgheoas661.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
